@@ -9,7 +9,7 @@ namespace mojapp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World\n Mirko je peder");
+            Console.WriteLine("Hello World\n");
         }
     }
 }
