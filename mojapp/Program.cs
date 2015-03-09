@@ -10,6 +10,7 @@ namespace mojapp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World\n");
+            Console.WriteLine("Hello World2\n");
         }
     }
 }
